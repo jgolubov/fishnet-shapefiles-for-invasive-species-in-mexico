@@ -59,5 +59,14 @@ plot(carta5x5.reticular,add=TRUE,col="red")
 
 
 
+#####Necesitamos hacer un metod para las etiquetas del grid basado en el 
+##poligono generado por el mapa 1:25,000 de INEGI con el codigo adoptado
+## por Armando.
+
+
+
+
+
+
 
 
